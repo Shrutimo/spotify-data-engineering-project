@@ -13,6 +13,6 @@ This is an ETL project in which the data is extracted from the Spotify API and t
 
 ## Architecture Diagram: 
 
-![Architecture diagram of Spotify ETL Project](https://github.com/Shrutimo/spotify-data-engineering-project/blob/main/Architecture%20Diagram.png)
+![Architecture diagram of Spotify ETL Project](https://github.com/shrutimodiii/spotify-data-engineering-project/blob/main/Architecture%20Diagram.png)
 
 
